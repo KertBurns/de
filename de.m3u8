@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1, Кордон 3 - 12
+https://temp-cdn.11cdn.org/fi2lm/e0073e4d9c2c44fa253b15d6cd2b5e5c/7f_60.Kordon.s03.E12.2025.HDTV.1080r.by.Nicodem.Files-x.v2a1.18.08.26.mp4
 #EXTINF:-1, Какие корабли я сжег 2 тур
 https://data00-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_02.Ne.gemiler.yaktim.v1a1.19.12.23.mp4
 #EXTINF:-1, Какие корабли я сжег 3 тур
@@ -13,12 +15,6 @@ https://data00-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_06.Ne.gem
 https://data00-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_07.Ne.gemiler.yaktim.v1a1.29.01.24.mp4
 #EXTINF:-1, Какие корабли я сжег 8 тур
 https://data00-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_08.Ne.gemiler.yaktim..Final.v1a1.05.02.24.mp4
-#EXTINF:-1, Кордон 3 - 10
-https://temp-cdn.11cdn.org/fi2lm/e0073e4d9c2c44fa253b15d6cd2b5e5c/7f_58.Kordon.s03.E10.2025.HDTV.1080r.by.Nicodem.Files-x.v2a1.17.08.26.mp4
-#EXTINF:-1, Кордон 3 - 11
-https://temp-cdn.11cdn.org/fi2lm/e0073e4d9c2c44fa253b15d6cd2b5e5c/7f_59.Kordon.s03.E11.2025.HDTV.1080r.by.Nicodem.Files-x.v2a1.18.08.26.mp4
-#EXTINF:-1, Кордон 3 - 12
-https://temp-cdn.11cdn.org/fi2lm/e0073e4d9c2c44fa253b15d6cd2b5e5c/7f_60.Kordon.s03.E12.2025.HDTV.1080r.by.Nicodem.Files-x.v2a1.18.08.26.mp4
 #EXTINF:-1, Гостья 1  фантастические
 https://data01-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_Gostya.S01.E01.2025.WEB-DL.1080p.ExKinoRay.v1a1.13.11.25.mp4
 #EXTINF:-1, Гостья 2  фантастические
