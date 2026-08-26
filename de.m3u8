@@ -1,8 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1, Кордон 19
-https://temp-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_67.Kordon.s03.E19.2026.HDTV.1080r.by.Nicodem.Files-x.v2a1.25.08.26.mp4
-#EXTINF:-1, Кордон 20
-https://temp-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_68.Kordon.s03.E20.2026.HDTV.1080r.by.Nicodem.Files-x.v2a1.25.08.26.mp4
 #EXTINF:-1, Номер 309 8 тур
 https://data05-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_No.309.s01e08.a1.05.04.18.mp4
 #EXTINF:-1, Номер 309 9 тур
@@ -27,22 +23,30 @@ https://svd.kvb.cool/video_mp4/serials/TheChelseaDetective/2554204e30ed6662660f0
 https://svd.kvb.cool/video_mp4/serials/TheChelseaDetective/2554204e30ed6662660f0a15380fbf6c/s01e07.mp4
 #EXTINF:-1, Детектив из Челси 8 сша
 https://svd.kvb.cool/video_mp4/serials/TheChelseaDetective/2554204e30ed6662660f0a15380fbf6c/s01e08.mp4
-#EXTINF:-1, Ожидается ураганный ветер 1
-https://data04-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_01.seriya.Ozhidaetsya.uragannyy.veter.rip.by.Aleksan55.a1.29.01.18.mp4
-#EXTINF:-1, Ожидается ураганный ветер 2
-https://data08-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_02.seriya.Ozhidaetsya.uragannyy.veter.rip.by.Aleksan55.a1.29.01.18.mp4
-#EXTINF:-1, Ожидается ураганный ветер 3
-https://data08-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_03.seriya.Ozhidaetsya.uragannyy.veter.rip.by.Aleksan55.a1.29.01.18.mp4
-#EXTINF:-1, Ожидается ураганный ветер 4
-https://data01-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_04.seriya.Ozhidaetsya.uragannyy.veter.rip.by.Aleksan55.a1.29.01.18.mp4
-#EXTINF:-1, Семья маньяка Беляева 1
-https://data04-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_Semya.manyaka.Belyaeva.Lyublyu,.znachit.veryu.01.seriya.2015.XviD.SATRip.by.simka.a1.07.02.15.mp4
-#EXTINF:-1, Семья маньяка Беляева 2
-https://data08-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_Semya.manyaka.Belyaeva.Lyublyu,.znachit.veryu.02.seriya.2015.XviD.SATRip.by.simka.a1.07.02.15.mp4
-#EXTINF:-1, Семья маньяка Беляева 3
-https://data04-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_Semya.manyaka.Belyaeva.Lyublyu,.znachit.veryu.03.seriya.2015.XviD.SATRip.by.simka.a1.07.02.15.mp4
-#EXTINF:-1, Семья маньяка Беляева 4
-https://data05-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_Semya.manyaka.Belyaeva.Lyublyu,.znachit.veryu.04.seriya.2015.XviD.SATRip.by.simka.a1.08.02.15.mp4
+#EXTINF:-1, Число зверя 1 детектив
+https://s12.kvb.cool/video_mp4/serials/ChisloZverya/2554204e30ed6662660f0a15380fbf6c/s01e01.mp4
+#EXTINF:-1, Число зверя 2 детектив
+https://s12.kvb.cool/video_mp4/serials/ChisloZverya/2554204e30ed6662660f0a15380fbf6c/s01e02.mp4
+#EXTINF:-1, Число зверя 3 детектив
+https://s12.kvb.cool/video_mp4/serials/ChisloZverya/2554204e30ed6662660f0a15380fbf6c/s01e03.mp4
+#EXTINF:-1, Число зверя 4 детектив
+https://s12.kvb.cool/video_mp4/serials/ChisloZverya/2554204e30ed6662660f0a15380fbf6c/s01e04.mp4
+#EXTINF:-1, Число зверя 5 детектив
+https://s12.kvb.cool/video_mp4/serials/ChisloZverya/2554204e30ed6662660f0a15380fbf6c/s01e05.mp4
+#EXTINF:-1, Число зверя 6 детектив
+https://s12.kvb.cool/video_mp4/serials/ChisloZverya/2554204e30ed6662660f0a15380fbf6c/s01e06.mp4
+#EXTINF:-1, Число зверя 7 детектив
+https://s12.kvb.cool/video_mp4/serials/ChisloZverya/2554204e30ed6662660f0a15380fbf6c/s01e07.mp4
+#EXTINF:-1, Число зверя 8 детектив
+https://s12.kvb.cool/video_mp4/serials/ChisloZverya/2554204e30ed6662660f0a15380fbf6c/s01e08.mp4
+#EXTINF:-1, Число зверя 9 детектив
+https://s12.kvb.cool/video_mp4/serials/ChisloZverya/2554204e30ed6662660f0a15380fbf6c/s01e09.mp4
+#EXTINF:-1, Число зверя 10 детектив
+https://s12.kvb.cool/video_mp4/serials/ChisloZverya/2554204e30ed6662660f0a15380fbf6c/s01e10.mp4
+#EXTINF:-1, Число зверя 11 детектив
+https://s12.kvb.cool/video_mp4/serials/ChisloZverya/2554204e30ed6662660f0a15380fbf6c/s01e11.mp4
+#EXTINF:-1, Число зверя 12 детектив
+https://s12.kvb.cool/video_mp4/serials/ChisloZverya/2554204e30ed6662660f0a15380fbf6c/s01e12.mp4
 #EXTINF:-1, Ключ от всех дверей 1 - 1
 https://data05-cdn.11cdn.org/fi2lm/9af96c8dab024e1476f6916b877d1e2b/7f_Klyuch.ot.vseh.dverey.01..2021.WEBRip.1080p.Files-x.v1a1.30.01.25.mp4
 #EXTINF:-1, Ключ от всех дверей 1 - 2
@@ -83,23 +87,3 @@ https://s15.kvb.cool/video_mp4/serials/VneZakona/2554204e30ed6662660f0a15380fbf6
 https://s15.kvb.cool/video_mp4/serials/VneZakona/2554204e30ed6662660f0a15380fbf6c/s01e11.mp4
 #EXTINF:-1, Вне закона 12 боевик
 https://s15.kvb.cool/video_mp4/serials/VneZakona/2554204e30ed6662660f0a15380fbf6c/s01e12.mp4
-#EXTINF:-1, Золотое дно 2 - 1
-https://svd.kvb.cool/video_mp4/serials/ZolotoeDno/2554204e30ed6662660f0a15380fbf6c/s02e01_480.mp4
-#EXTINF:-1, Золотое дно 2 - 2
-https://svd.kvb.cool/video_mp4/serials/ZolotoeDno/2554204e30ed6662660f0a15380fbf6c/s02e02_480.mp4
-#EXTINF:-1, Золотое дно 2 - 3
-https://svd.kvb.cool/video_mp4/serials/ZolotoeDno/2554204e30ed6662660f0a15380fbf6c/s02e03_480.mp4
-#EXTINF:-1, Золотое дно 2 - 4
-https://svd.kvb.cool/video_mp4/serials/ZolotoeDno/2554204e30ed6662660f0a15380fbf6c/s02e04_480.mp4
-#EXTINF:-1, Золотое дно 2 - 5
-https://svd.kvb.cool/video_mp4/serials/ZolotoeDno/2554204e30ed6662660f0a15380fbf6c/s02e05_480.mp4
-#EXTINF:-1, Золотое дно 2 - 6
-https://svd.kvb.cool/video_mp4/serials/ZolotoeDno/2554204e30ed6662660f0a15380fbf6c/s02e06_480.mp4
-#EXTINF:-1, Золотое дно 2 - 7
-https://svd.kvb.cool/video_mp4/serials/ZolotoeDno/2554204e30ed6662660f0a15380fbf6c/s02e07_480.mp4
-#EXTINF:-1, Золотое дно 2 - 8
-https://svd.kvb.cool/video_mp4/serials/ZolotoeDno/2554204e30ed6662660f0a15380fbf6c/s02e08_480.mp4
-#EXTINF:-1, Золотое дно 2 - 9
-https://svd.kvb.cool/video_mp4/serials/ZolotoeDno/2554204e30ed6662660f0a15380fbf6c/s02e09_480.mp4
-#EXTINF:-1, Золотое дно 2 - 10
-https://svd.kvb.cool/video_mp4/serials/ZolotoeDno/2554204e30ed6662660f0a15380fbf6c/s02e10_480.mp4
